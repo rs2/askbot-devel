@@ -10,6 +10,6 @@
     "gulp-jshint": "^1.9.0",
     "gulp-util": "~3.0.0",
     "jshint-stylish": "^0.1.5",
-    "gulp-closure-compiler": "^0.2.14"
+    "gulp-closure-compiler": "^0.4.0"
   }
 }
