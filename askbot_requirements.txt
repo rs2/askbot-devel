@@ -1,6 +1,6 @@
 --trusted-host github.com
 django-appconf
-akismet==1.0.1
+akismet==1.1
 beautifulsoup4<=4.7.1
 django-avatar>=4.0
 django-compressor>=2.0,<=2.4
